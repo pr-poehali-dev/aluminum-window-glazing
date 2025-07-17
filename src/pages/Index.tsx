@@ -11,7 +11,7 @@ const Index = () => {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
               <Icon name="Home" size={24} className="text-blue-600 mr-2" />
-              <span className="text-xl font-bold text-gray-900">АлюОкна</span>
+              <span className="text-xl font-bold text-gray-900">ПрофСтройПрестиж</span>
             </div>
             <div className="hidden md:flex space-x-8">
               <a href="#home" className="text-gray-700 hover:text-blue-600 font-medium">Главная</a>
@@ -314,8 +314,8 @@ const Index = () => {
                 <Icon name="Mail" size={24} className="text-blue-600 mt-1 mr-4" />
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900 mb-2">Email</h3>
-                  <p className="text-gray-600">info@aluokna.ru</p>
-                  <p className="text-gray-600">sales@aluokna.ru</p>
+                  <p className="text-gray-600">info@profstroyprestig.ru</p>
+                  <p className="text-gray-600">sales@profstroyprestig.ru</p>
                 </div>
               </div>
               <div className="flex items-start">
@@ -367,7 +367,7 @@ const Index = () => {
             <div>
               <div className="flex items-center mb-4">
                 <Icon name="Home" size={24} className="text-blue-400 mr-2" />
-                <span className="text-xl font-bold">АлюОкна</span>
+                <span className="text-xl font-bold">ПрофСтройПрестиж</span>
               </div>
               <p className="text-gray-400">
                 Профессиональное остекление коттеджей алюминиевыми окнами
@@ -395,13 +395,13 @@ const Index = () => {
               <h4 className="text-lg font-semibold mb-4">Контакты</h4>
               <div className="space-y-2 text-gray-400">
                 <p>+7 (495) 123-45-67</p>
-                <p>info@aluokna.ru</p>
+                <p>info@profstroyprestig.ru</p>
                 <p>г. Москва, ул. Примерная, д. 123</p>
               </div>
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 АлюОкна. Все права защищены.</p>
+            <p>&copy; 2024 ПрофСтройПрестиж. Все права защищены.</p>
           </div>
         </div>
       </footer>
