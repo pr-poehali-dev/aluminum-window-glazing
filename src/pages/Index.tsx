@@ -306,8 +306,7 @@ const Index = () => {
                 <Icon name="Phone" size={24} className="text-blue-600 mt-1 mr-4" />
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900 mb-2">Телефон</h3>
-                  <p className="text-gray-600">+7 (495) 123-45-67</p>
-                  <p className="text-gray-600">+7 (926) 123-45-67</p>
+                  <p className="text-gray-600">+375 29 392 50 05</p>
                 </div>
               </div>
               <div className="flex items-start">
@@ -394,7 +393,7 @@ const Index = () => {
             <div>
               <h4 className="text-lg font-semibold mb-4">Контакты</h4>
               <div className="space-y-2 text-gray-400">
-                <p>+7 (495) 123-45-67</p>
+                <p>+375 29 392 50 05</p>
                 <p>info@profstroyprestig.ru</p>
                 <p>г. Москва, ул. Примерная, д. 123</p>
               </div>
